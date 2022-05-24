@@ -5,7 +5,7 @@ SNV
 MNV
 Indel
  Gene List 1
-Gene List: Lymphoid_v1.0.0
+Gene List: Lymphoid_v2.0.0
  Small Variant Consequences 14
 Stop gained
 Stop loss
