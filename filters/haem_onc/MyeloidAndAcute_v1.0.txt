@@ -54,8 +54,6 @@ ALL < 0.1
 EVS ALL < 0.1
 EVS EUR < 0.1
 EVS AFR < 0.1
- Global Minor Allele Population Frequency 1
-Global Minor Allele Frequency < 0.1
  Small Variant QC Metrics 2
 Total Read Depth > 100
 Variant Read Frequency > 0.03

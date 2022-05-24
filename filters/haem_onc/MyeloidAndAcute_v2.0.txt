@@ -4,8 +4,8 @@ SV
 SNV
 MNV
 Indel
- Genomic Regions 1
-Region List: myeloid_b38_restricted_exons_5bp_v1.0
+ Gene List 1
+Gene List: MyeloidAndAcute_v2.0.0
  Small Variant Consequences 14
 Stop gained
 Stop loss
@@ -54,8 +54,6 @@ ALL < 0.1
 EVS ALL < 0.1
 EVS EUR < 0.1
 EVS AFR < 0.1
- Global Minor Allele Population Frequency 1
-Global Minor Allele Frequency < 0.1
  Small Variant QC Metrics 2
 Total Read Depth > 100
 Variant Read Frequency > 0.03
